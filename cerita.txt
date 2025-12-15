@@ -2,3 +2,4 @@ Rifall
 Halo, nama saya Rifal
 Saya sedang belajar Git dari nol
 Git itu seperti mesin waktu
+Saya sudah bisa Git dasar
