@@ -1,0 +1,4 @@
+Rifall
+Halo, nama saya Rifal
+Saya sedang belajar Git dari nol
+Git itu seperti mesin waktu
